@@ -2,7 +2,7 @@
 Applied Machine Learning coursework at McGill University.
 
 ## Project 1 - Introduction
-As an introduction to practical machine learning, these are implementations (from scratch) of logistic regression with gradient descent and linear discriminant analysis. Other introductory steps include loading and cleaning the data set, extracting some basic additional features, creating a training-validation-test split, and using K-fold validation to evaluate the models.
+As an introduction to practical machikinane learning, these are implementations (from scratch) of logistic regression with gradient descent and linear discriminant analysis. Other introductory steps include loading and cleaning the data set, extracting some basic additional features, creating a training-validation-test split, and using K-fold validation to evaluate the models.
 
 ## Project 2 - Reddit Comment Classification
 This project classifies uses the text of Reddit comments to classify them by the subreddit in which they were posted. The data is pre-processed and feature vectors are extracted, then fed into the models: Bernoulli Naive Bayes (from scratch), Multinomial Naive Bayes (from SciKit-Learn), and a LSTM neural network (using PyTorch). Results were submitted to [this Kaggle leaderboard](https://www.kaggle.com/c/reddit-comment-classification-comp-551) of McGill and University of Montreal graduate-level students.
