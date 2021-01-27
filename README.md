@@ -1,4 +1,4 @@
-# COMP 551 hgu
+# COMP 551 
 Applied Machine Learning coursework at McGill University.
 
 ## Project 1 - Introduction
